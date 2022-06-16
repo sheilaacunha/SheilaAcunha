@@ -12,7 +12,7 @@
 💖 Em um relacionamento complicado com os códigos.
 🚩 Amo incomodar meus gatos e minha namorada.
 🔭 Trabalhei no setor comercial por 18 anos com atendimento ao público.
-🌱 Tenho experiência com manutenção,(hardware e software) de smartphones.
+🌱 Tenho experiência com manutenção(hardware e software) de smartphones.
 🎵 Meu gosto musical vai do 8 ao 80, depende do meu humor
 
 ```
