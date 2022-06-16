@@ -27,7 +27,7 @@
 
 
 <p align="center">  <a href="https://www.linkedin.com/in/sheilaacunha90/" alt="Linkedin">
-        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a><a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="sheilaacunha1990@gmail.com"><img
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a><a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="[sheilaacunha1990@gmail.com](https://mail.google.com/mail/u/0/?tab=wm#inbox)"><img
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
         target="_blank"></a>
 </p>
