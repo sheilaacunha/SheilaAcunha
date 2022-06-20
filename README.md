@@ -31,17 +31,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="height: 4rem" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"style="height: 4rem; background-color:black" />
    <a href="https://www.linkedin.com/in/sheilaacunha90/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/keidsonroby/" /></a>
    <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank">
-   <img alt="Spotify"src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="mailto:sheilaacunha1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt=""></a>
+   <img alt="Spotify"src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black"></a>
+   <a href="mailto:sheilaacunha1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"></a>
+   <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>
+ 
       
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -49,10 +49,12 @@
 
 
 
-<hr>
 
 <!--
-  <img align="left" width="300" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg"> 
+
+
+  <img align="left" width="300" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
+<img align="right" width="300" height="200" src="https://deliriumnerd.com/wp-content/uploads/2016/03/vl5eatk.gif">
   
 ```
 🌟💖🎵
@@ -61,6 +63,8 @@ de uma boa música, o dia
 rende mais. #FICAADICA
 
 ```
+
+
 
 
 
