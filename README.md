@@ -35,18 +35,7 @@
    <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>
  
       
-</div>
-
-<div align="center">
-   
-> #### *Minhas Skills:*  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  
-</div>
-
-<div align="center">
-   
-> #### *Ferramentas:* 
-</div>
-   
+</div>  
 
 
 <div align="center">
@@ -59,6 +48,7 @@
 
  ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visualizações:)
    [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))
+   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 </div>
 
