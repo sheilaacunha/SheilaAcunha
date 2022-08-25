@@ -19,18 +19,12 @@
 <hr>
 
 
-<p align="center">
-  💌 ⤵️
-</p>
 
 
 
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"style="height: 4rem" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="height: 4rem" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem" />
+<div align="center">
+
    <a href="https://www.linkedin.com/in/sheilaacunha90/" alt="Linkedin">
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/keidsonroby/" /></a>
    <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank">
@@ -39,18 +33,23 @@
    <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>
  
       
-</p>
+</div>
 
-<div align="left">
+<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
+<div align="center">
 
+ ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visitante+Nº)
+
+</div>
 
 
 <!--
+> #### *Estudante Full Stack Web Developer na Growdev*
 
 
   <img align="left" width="300" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
