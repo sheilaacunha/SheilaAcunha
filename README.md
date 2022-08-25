@@ -19,9 +19,11 @@
 <hr>
 
 
-
-
-
+<div align="center">
+   
+> #### *Como me Encontrar:*
+   
+ </div>
 
 <div align="center">
 
@@ -36,6 +38,15 @@
 </div>
 
 <div align="center">
+   
+> #### *Minhas Skills:*  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+</div>
+  
+  
+   
+
+
+<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -43,13 +54,17 @@
 
 <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visitante+Nº)
+ ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visualizações:)
+   [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))
 
 </div>
 
 
+
+
+
 <!--
-> #### *Estudante Full Stack Web Developer na Growdev*
+
 
 
   <img align="left" width="300" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
