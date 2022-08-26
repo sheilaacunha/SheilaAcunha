@@ -17,13 +17,10 @@
 
 ```
 <hr>
-
-
 <div align="center">
    
 > #### *Como me Encontrar:*
-   
- </div>
+</div>
 
 <div align="center">
 
@@ -32,14 +29,12 @@
    <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank">
    <img alt="Spotify"src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black"></a>
    <a href="mailto:sheilaacunha1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"></a>
-   <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>
- 
-      
+   <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>    
 </div>  
 
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/sheilaacunha/SheilaAcunha">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -47,10 +42,8 @@
 <div align="center">
 
  ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visualizações:)
-   [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))
-   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  ![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#ffc632)
-   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue"></a>
-	<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
+  [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#ffc632)
+   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue"></a> <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 
 </div>
