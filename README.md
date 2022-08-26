@@ -25,9 +25,9 @@
 <div align="center">
 
    <a href="https://www.linkedin.com/in/sheilaacunha90/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/keidsonroby/" /></a>   
    <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank">
-   <img alt="Spotify"src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black"></a>
+   <img src='https://img.shields.io/badge/Sogi-Online-&?style=social&logo=spotify'></a>
    <a href="mailto:sheilaacunha1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"></a>
    <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>    
 </div>  
