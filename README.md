@@ -19,7 +19,7 @@
 <hr>
 <div align="center">
    
- #### *Como me Encontrar:*
+` Como me Encontrar:`
 </div>
 
 <div align="center">	
