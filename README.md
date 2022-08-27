@@ -7,7 +7,8 @@
 ```
   👋 Olá,sou a Sheila  🏳️‍🌈 curiosidades sobre mim :
   -----------------------------------------------------
-💻Aluna da 8º Edição do Programa Starter Full Stack Web Developer na Growdev;
+💻Aluna da 8º Edição do Programa Starter Full Stack Web 
+		Developer na Growdev;
 📚 Por enquanto uma mera aprendiz, futuramente uma dev;
 📝 Em constante aprendizado, para ter confiança no que estou fazendo; 
 🌟Quando o projeto começa a criar forma a satisfação é enorme;
