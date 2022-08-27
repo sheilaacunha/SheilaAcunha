@@ -1,5 +1,6 @@
+
 <hr>
-<img align="left"src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"width="300"/>
+<img align="left"src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  width="300"/>
 <hr>
 
 
@@ -17,7 +18,7 @@
 🎵 Meu gosto musical vai do 8 ao 80, depende do meu humor;
 
 ```
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
    
 ` Como me Encontrar:`
@@ -34,6 +35,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
 
