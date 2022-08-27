@@ -10,12 +10,15 @@
 💻Aluna da 8º Edição do Programa Starter Full Stack Web 
 		Developer na Growdev;
 📚 Por enquanto uma mera aprendiz, futuramente uma dev;
-📝 Em constante aprendizado, para ter confiança no que estou fazendo; 
+📝 Em constante aprendizado,
+	para ter confiança no que estou fazendo; 
 🌟Quando o projeto começa a criar forma a satisfação é enorme;
 💖 Em um relacionamento complicado com os códigos;
 🚩 Amo gatos;
-🔭 Trabalhei no setor comercial por 18 anos com atendimento ao público;
-🌱 Tenho experiência com manutenção(hardware e software) de smartphones;
+🔭 Trabalhei no setor comercial por 18 anos 
+	com atendimento ao público;
+🌱 Tenho experiência com manutenção
+	(hardware e software) de smartphones;
 🎵 Meu gosto musical vai do 8 ao 80, depende do meu humor;
 
 ```
