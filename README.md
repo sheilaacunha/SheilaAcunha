@@ -3,8 +3,8 @@
 <hr>
 
 ```
-👋Olá, me chamo Sheila Acunha🏳️‍🌈
--------------------------
+  👋 Olá,sou a Sheila  🏳️‍🌈 curiosidades sobre mim :
+  -----------------------------------------------------
 💻Aluna da 8º Edição do Programa Starter Full Stack Web Developer na Growdev;
 📚 Por enquanto uma mera aprendiz, futuramente uma dev;
 📝 Em constante aprendizado, para ter confiança no que estou fazendo; 
@@ -19,20 +19,15 @@
 <hr>
 <div align="center">
    
-> #### *Como me Encontrar:*
+ #### *Como me Encontrar:*
 </div>
 
-<div align="center">
-
-   <a href="https://www.linkedin.com/in/sheilaacunha90/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/keidsonroby/" /></a>   
-   <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank">
-   <img src='https://img.shields.io/badge/Sogi-Online-&?style=social&logo=spotify'></a>
-   <a href="mailto:sheilaacunha1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"></a>
-   <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt=""></a>    
-</div>  
-
-
+<div align="center">	
+	<a href="https://www.linkedin.com/in/sheilaacunha90/"><img src="https://img.shields.io/badge/Acunha-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank"><img src='https://img.shields.io/badge/Acunha-Online-&?style=social&logo=spotify'> 
+	</a> <a href="mailto:sheilaacunha1990@gmail.com"><img img src="https://img.shields.io/badge/Acunha-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	 <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Acunha-%230A66C2.svg?style=plastic&logo=discord&logoColor=white" alt="LinkedIn"/></a>
+</div> 
 <div align="center">
   <a href="https://github.com/sheilaacunha/SheilaAcunha">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -42,34 +37,8 @@
 <div align="center">
 
  ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visualizações:)
-  [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#ffc632)
+  [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#ffc632)
    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue"></a> <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 
 </div>
-
-
-
-
-
-<!--
-
-
-
-  <img align="left" width="300" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
-<img align="right" width="300" height="200" src="https://deliriumnerd.com/wp-content/uploads/2016/03/vl5eatk.gif">
-  
-```
-🌟💖🎵
-Um bom café da manhã na cia 
-de uma boa música, o dia
-rende mais. #FICAADICA
-
-```
-
-
-
-
-
-
-
