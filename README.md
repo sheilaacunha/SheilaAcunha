@@ -1,6 +1,7 @@
 <hr>
-<img align="left" width="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
+<img align="left"src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"width="300"/>
 <hr>
+
 
 ```
   👋 Olá,sou a Sheila  🏳️‍🌈 curiosidades sobre mim :
