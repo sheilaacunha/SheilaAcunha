@@ -16,6 +16,7 @@
 🎵 Meu gosto musical vai do 8 ao 80, depende do meu humor;
 
 ```
+<br>
 <div align="center">
 
  ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭_Visualizações:)
