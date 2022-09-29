@@ -24,6 +24,7 @@
    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue"></a> <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+	![npm](https://img.shields.io/badge/-npm-red?logo=npm&logoColor=red&style=plastic)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
@@ -49,4 +50,5 @@
 </a> -->
 
  
+
 
