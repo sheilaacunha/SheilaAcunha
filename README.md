@@ -28,6 +28,7 @@
    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=plastic"></a>
 	![npm](https://img.shields.io/badge/-npm-red?logo=npm&logoColor=red&style=plastic)
+	![Git](https://img.shields.io/badge/-Git-333333?logo=Git&logoColor=#204ECF&style=plastic)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
@@ -54,3 +55,4 @@
 
  
 
+ 
