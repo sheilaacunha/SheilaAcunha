@@ -26,6 +26,7 @@
    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue&style=plastic"></a> 
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=plastic"></a>
    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
+  ![React-router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic)
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=plastic"></a>
 	![npm](https://img.shields.io/badge/-npm-red?logo=npm&logoColor=red&style=plastic)
 	![Git](https://img.shields.io/badge/-Git-333333?logo=Git&logoColor=#204ECF&style=plastic)
