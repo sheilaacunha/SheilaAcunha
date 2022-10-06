@@ -22,7 +22,7 @@
  ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=🔭)
   [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha))  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&style=plastic) 
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&style=plastic) 
-  ![Java](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=333333&style=plastic)
+  ![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=plastic)
    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue&style=plastic"></a> 
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=plastic"></a>
    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
