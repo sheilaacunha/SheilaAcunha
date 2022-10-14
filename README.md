@@ -2,8 +2,8 @@
 
 <img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"  width="300" height="270" />
 
-```HTML
-  👋 Olá,sou a <Sheila/>  🏳️‍🌈 curiosidades sobre mim :
+```JS
+  👋 Olá, sou a Sheila  🏳️‍🌈 curiosidades sobre mim :
   -----------------------------------------------------
 💻Aluna da 8º Edição do Programa Starter Full Stack Web Developer na Growdev;
 📚 Por enquanto uma mera aprendiz, futuramente uma dev;
@@ -14,6 +14,7 @@
 🔭 Trabalhei no setor comercial por 18 anos com atendimento ao público;
 🌱 Tenho experiência com manutenção(hardware e software) de smartphones;
 🎵 Meu gosto musical vai do 8 ao 80, depende do meu humor;
+---------------------------------------------------------
 
 ```
 <br>
