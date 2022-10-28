@@ -2,7 +2,7 @@
 
 <img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"  width="250" height="265" />
 
-```JS
+```CSS
   👋 Olá, sou a Sheila  🏳️‍🌈 Curiosidades sobre mim :
 -----------------------------------------------------
 💻Aluna da 8º Edição do Programa Starter Full Stack Web Developer na <Growdev/>;
