@@ -16,7 +16,7 @@
 👧🏽 Sou a Sheila
 👩🏽‍💻 Aluna  na <Growdev/>;
 💻 Programa Starter Full Stack Web Developer;
-🌟  Por enquanto uma mera Aprendiz, Futuramente uma <Dev/>;
+🌟 Por enquanto uma mera Aprendiz, Futuramente uma <Dev/>;
 💖 Em um Relacionamento complicado com os Códigos;
 📝 Em constante Aprendizado;
 🐈‍⬛ Amo Gatos;
