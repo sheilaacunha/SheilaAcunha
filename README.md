@@ -13,13 +13,13 @@
 ```JS
     🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️
 -----------------------------------------------------
-👧🏽 Sou a Sheila
-👩🏽‍💻 Aluna  na <Growdev/>;
-💻 Programa Starter Full Stack Web Developer;
-🌟 Por enquanto uma mera Aprendiz;
-💖 Em um Relacionamento complicado com os Códigos;
-📝 Em constante Aprendizado;
-🐈‍⬛ Amo Gatos;
+👧🏽Sou a Sheila
+👩🏽‍💻Aluna  na <Growdev/>;
+💻Programa Starter Full Stack Web Developer;
+🌟Por enquanto uma mera Aprendiz;
+💖Em um Relacionamento complicado com os Códigos;
+📝Em constante Aprendizado;
+🐈‍⬛Amo Gatos;
 
 ---------------------------------------------------------
 
