@@ -1,31 +1,27 @@
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"  width="250" height="265" />
+<img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"  width="250" height="250" />
 
-```CSS
-  👋 Olá, sou a Sheila  🏳️‍🌈 Curiosidades sobre mim :
+<img align="right"  height="250" width="280" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
+
+```JS
+    🏳️‍🌈 Quem sou ???
 -----------------------------------------------------
-💻Aluna da 8º Edição do Programa Starter Full Stack Web Developer na <Growdev/>;
-📚 Por enquanto uma mera Aprendiz, Futuramente uma <Dev/>;
-📝 Em constante Aprendizado,para ter Confiança no que estou fazendo; 
-🌟Quando o Projeto começa a criar forma a Satisfação é enorme;
+👧🏽 sou a Sheila
+👩🏽‍💻 Aluna  na <Growdev/>;
+💻 Programa Starter Full Stack Web Developer;
+🌟  Por enquanto uma mera Aprendiz, Futuramente uma <Dev/>;
 💖 Em um Relacionamento complicado com os Códigos;
-🚩 Amo Gatos;
-🔭 Trabalhei no setor comercial por 18 anos com Atendimento ao público;
-🌱 Tenho experiência com Manutenção(hardware e software) de smartphones;
-🎵 Meu gosto Musical vai do 8 ao 80, depende do meu humor;
+📝 Em constante Aprendizado;
+🐈‍⬛ Amo Gatos;
+
 ---------------------------------------------------------
 
 ```
-<br>
-
 <div align="center"> 
 
 [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha)) ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=💜) <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=spotify&logoColor=green" alt="LinkedIn"/></a> <a href="https://www.linkedin.com/in/sheilaacunha90/"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a> </a> <a href="mailto:sheilaacunha1990@gmail.com"><img img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=gmail&logoColor=red" alt="Gmail"/></a>
 <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
-
-  
-  
 </div> 
 
 
@@ -40,22 +36,17 @@
 
 <div align="center">
 
-
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT) ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM) ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT) ![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router) ![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components) ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI)![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT) ![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL) ![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+<!--
 
-<!-- <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
-</a> -->
-
-<!-- <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e" target="_blank"><img src='https://img.shields.io/badge/Acunha-Online-&?style=social&logo=spotify'> <a href="https://www.linkedin.com/in/sheilaacunha90/" target="_blank"><img src='https://img.shields.io/badge/Linkedin-Acunha-&?style=social&logo=linkedin'> <a href="mailto:sheilaacunha1990@gmail.com" target="_blank">
-  <img src='https://img.shields.io/badge/Gmail-Acunha-&?style=social&logo=Gmail'> <a href="http://discordapp.com/users/953979290922389546#3848" target="_blank"><img src='https://img.shields.io/badge/Discord-Acunha-&?style=social&logo=discord'> -->
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM) ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT) ![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router) ![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components) ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI)![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT) ![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL) ![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX) 
 
  
 
