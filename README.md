@@ -11,7 +11,7 @@
 <div align="center"> 
 
 ```JS
-    🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️
+    🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ Nem eu sei direito 🤣
 -----------------------------------------------
 👧🏽Sou a Sheila
 👩🏽‍💻Aluna  na <Growdev/>;
@@ -20,7 +20,6 @@
 💖Em um Relacionamento complicado com os Códigos;
 📝Em constante Aprendizado;
 🐈‍⬛Amo Gatos;
-
 -----------------------------------------------
 
 ```
