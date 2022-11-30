@@ -44,17 +44,9 @@
 <div align="center">
 
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT) ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM) ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT) ![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router) ![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components) ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI) 
+  ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT) ![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL) ![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-<!--
-
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM) ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT) ![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router) ![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components) ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI)![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT) ![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL) ![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX) 
-
- 
-
- 
