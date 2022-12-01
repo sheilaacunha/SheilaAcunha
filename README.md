@@ -11,7 +11,7 @@
 <div align="center"> 
 
 ```JS
-    🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ Nem eu sei direito 🤣
+    🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
 -----------------------------------------------
 👧🏽Sou a Sheila
 👩🏽‍💻Aluna  na <Growdev/>;
