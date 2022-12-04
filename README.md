@@ -12,7 +12,7 @@
 
 ```JS
     🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
------------------------------------------------
+--------------------------------------------------
 👧🏽Sou a Sheila
 👩🏽‍💻Aluna  na <Growdev/>;
 💻Programa Starter Full Stack Web Developer;
@@ -20,9 +20,9 @@
 💖Em um Relacionamento complicado com os Códigos;
 📝Em constante Aprendizado;
 🐈‍⬛Amo Gatos;
------------------------------------------------
-
+--------------------------------------------------
 ```
+ 
 </div>
 
 ##
