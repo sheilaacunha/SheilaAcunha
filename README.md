@@ -1,14 +1,14 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
-<img align="right"  height="210" width="230" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
-  
-  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="3" height="5"/>
-  
- <img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="230" height="230"/>
 
- <img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="3" height="5"/>
+<img align="right"  height="230" width="250" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
+  
+<img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="3" height="5"/>
+  
+<img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="230" height="230"/>
 
-<div align="center"> 
+<img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="3" height="5"/>
+
+<div align="center">
 
 ```JS
     🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
@@ -23,16 +23,13 @@
 -----------------------------------------------
 
 ```
-
-</div> 
+</div>
 
 <div align="center"> 
 
 [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha)) ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=💜) <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=spotify&logoColor=green" alt="LinkedIn"/></a> <a href="https://www.linkedin.com/in/sheilaacunha90/"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a> </a> <a href="mailto:sheilaacunha1990@gmail.com"><img img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=gmail&logoColor=red" alt="Gmail"/></a>
 <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
 </div> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
   <a href="https://github.com/sheilaacunha">
