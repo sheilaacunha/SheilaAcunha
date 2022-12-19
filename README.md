@@ -1,23 +1,26 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   
-<img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="300" height="250"/>
+<img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="300" height="300"/>
 
 <img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="3" height="5"/>
 
-<div align="center">
+<div>
 
 ```JS
     🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
---------------------------------------------------
+-------------------------------------------------------------------------------
 👧🏽Sou a Sheila
-👩🏽‍💻Aluna  na <Growdev/>;
-💻Programa Starter Full Stack Web Developer;
-🌟Por enquanto uma mera Aprendiz;
-💖Em um Relacionamento complicado com os Códigos;
+💖Estou em um Relacionamento complicado com os Códigos;
+👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
+💻Estou na 13º Edição do Programa Starter Full Stack Web Developer;
+🌟Por enquanto uma mera Aprendiz de Programação;
+💜Futuramente dev;
 📝Em constante Aprendizado;
-🐈‍⬛Amo Gatos;
---------------------------------------------------
+👩‍💼Aprendi a não desistir dos meus objetivos;
+🧩 Uma frase que levo comigo é : "Se definir é limitar-se."
+🐈‍⬛Amo Gatos; 🛼Patins; 🎵 Musica; 🎞️ Série 🎬Filme;
+-----------------------------------------------------------------------------
  
 ```
  
@@ -35,7 +38,7 @@
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sheilaacunha&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=C71585&text_color=DB7093&bg_color=0d1117" alt="githubbluestats" /> 
   <img width="31%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaacunha&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" />
  
- <img align="right"  height="200" width="230" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
+ <img align="right"  height="190" width="230" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
  
 </div>
 
