@@ -9,7 +9,7 @@
 
 ```JS
     🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
--------------------------------------------------------------------------------
+---------------------------------------------------------------------
 👧🏽Sou a Sheila
 💖Estou em um Relacionamento complicado com os Códigos;
 👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
@@ -20,7 +20,7 @@
 👩‍💼Aprendi a não desistir dos meus objetivos;
 🧩 Uma frase que levo comigo é : "Se definir é limitar-se."
 🐈‍⬛Amo Gatos; 🛼Patins; 🎵 Musica; 🎞️ Série 🎬Filme;
------------------------------------------------------------------------------
+-------------------------------------------------------------------
  
 ```
  
