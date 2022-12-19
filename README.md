@@ -33,14 +33,13 @@
 <a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
 </div> 
 
-<div align="center">
-  <a href="https://github.com/sheilaacunha">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=sheilaacunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaacunha&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sheilaacunha&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=C71585&text_color=DB7093&bg_color=0d1117" alt="githubbluestats" /> 
+  <img width="31%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaacunha&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" />
 </div>
-<br/>
 
-<div align="center">
+
+<div align="left">
 
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT) ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM) ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT) ![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router) ![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components) ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI) 
