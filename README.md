@@ -8,18 +8,18 @@
 <div>
 
 ```JS
-    🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
----------------------------------------------------------------------
-👧🏽Sou a Sheila
-💖Estou em um Relacionamento complicado com os Códigos;
-👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
-💻Estou na 13º Edição do Programa Starter Full Stack Web Developer;
-🌟Por enquanto uma mera Aprendiz de Programação;💜Futuramente dev;
-📝Em constante Aprendizado;
-👩‍💼Aprendi a não desistir dos meus objetivos;
-🧩 Uma frase que levo comigo é : "Se definir é limitar-se."
-🐈‍⬛Amo Gatos; 🛼Patins; 🎵 Musica; 🎞️ Série 🎬Filme;
--------------------------------------------------------------------
+         🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
+------------------------------------------------------------------------
+  👧🏽Sou a Sheila
+  💖Estou em um Relacionamento complicado com os Códigos;
+  👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
+  💻Estou na 13º Edição do Programa Starter Full Stack Web Developer;
+  🌟Por enquanto uma mera Aprendiz de Programação;💜Futuramente dev;
+  📝Em constante Aprendizado;
+  👩‍💼Aprendi a não desistir dos meus objetivos;
+  🧩 Uma frase que levo comigo é : "Se definir é limitar-se."
+  🐈‍⬛Amo Gatos; 🛼Patins; 🎵 Musica; 🎞️ Série 🎬Filme;
+----------------------------------------------------------------------
  
 ```
  
