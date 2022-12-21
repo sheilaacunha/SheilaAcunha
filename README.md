@@ -30,7 +30,7 @@
 <div align="center"> 
 
 [![sheila]( https://img.shields.io/github/followers/sheilaacunha?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sheilaacunha/SheilaAcunha)) ![](https://komarev.com/ghpvc/?username=sheilaacunha&label=💜) <a href="https://open.spotify.com/user/31ddady2ax3sypzpwez7ptbpqigy?si=defcbec6d9584d3e"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=spotify&logoColor=green" alt="LinkedIn"/></a> <a href="https://www.linkedin.com/in/sheilaacunha90/"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a> </a> <a href="mailto:sheilaacunha1990@gmail.com"><img img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=gmail&logoColor=red" alt="Gmail"/></a>
-<a href="http://discordapp.com/users/953979290922389546#3848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
+<a href="http://discordapp.com/users/9539792909223895463848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
 </div> 
 
 <div align="left">  
