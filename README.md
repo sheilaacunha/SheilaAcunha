@@ -1,7 +1,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <!--  <img align="left" src="https://cdn.discordapp.com/attachments/1027407718807515176/1055277312108675143/octocat-1671667647442.png" width="295" height="260"/> -->
- <img align="left"  height="270" width="300" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
+ <img align="left"  height="250" width="300" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
 
 <!-- <img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" width="3" height="5"/>
  -->
@@ -39,7 +39,7 @@
   <img width="42%" height="210px" src="https://github-readme-stats.vercel.app/api?username=sheilaacunha&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=C71585&text_color=DB7093&bg_color=0d1117" alt="githubbluestats" /> 
   <img width="31%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaacunha&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" />
  
- <img align="right" src="https://cdn.discordapp.com/attachments/1027407718807515176/1055277312108675143/octocat-1671667647442.png" width="235" height="220"/>
+ <img align="right" src="https://cdn.discordapp.com/attachments/1027407718807515176/1055277312108675143/octocat-1671667647442.png" width="235" height="200"/>
  
 <!--  <img align="right"  height="170" width="210" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g"> -->
  
