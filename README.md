@@ -51,15 +51,25 @@
 
 <br>
 
-[![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT)](https://html.com/)
-
 <div align="center">
  
  ```Conhecimentos:```
 
-![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT) ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM) ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT) ![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router) ![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components) ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI) 
-  ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT) ![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL) ![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX)
+[![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT)](https://learngitbranching.js.org/)
+[![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://html.com/)
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://css-tricks.com/)
+[![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)](https://javascript.info/)
+[![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM)](https://www.npmjs.com/) 
+[![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS)](https://www.npmjs.com/) 
+[![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT)](https://www.typescriptlang.org/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP)](https://getbootstrap.com/) 
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT)](https://react-tutorial.app/) 
+[![React-router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=React%20Router)](https://react-tutorial.app/) 
+[![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=flat&logo=styled-components)](https://styled-components.com/) 
+[![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI)](https://mui.com/) 
+[![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT)](https://mui.com/) 
+[![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL)](https://vercel.com/dashboard) 
+[![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX)](https://vercel.com/dashboard)
 
 </div>
 
