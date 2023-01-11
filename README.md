@@ -37,16 +37,17 @@
 <a href="http://discordapp.com/users/9539792909223895463848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
 
 </div>
-<p align="left">
+
+<div align="left">
  
 <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api?username=sheilaacunha&&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=C71585&text_color=DB7093&bg_color=0d1117" alt="sheila acunha" />  
  
 <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-snogueira&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" alt="top-langs" />
-</p>
  
-<img align="right"  height="170" width="210" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
+ <img align="right"  height="170" width="210" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g">
  
 </div>
+ 
 
 <br>
 
