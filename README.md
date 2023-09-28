@@ -13,11 +13,12 @@
   👧🏽Sou a Sheila
   💖Estou em um Relacionamento complicado com os Códigos;
   👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
-  💻Estou na 13º Edição do Programa Starter Full Stack Web Developer;
-  🌟Por enquanto uma mera Aprendiz de Programação;💜Futuramente dev;
+  💻Estou na Edição do Programa Starter Full Stack Web Developer;
+  🌟Uma mera Aprendiz de Programação;
+  💜Atuamente trabalho como SDR;
   📝Em constante Aprendizado;
-  👩‍💼Aprendi a não desistir dos meus objetivos;
-  🧩 Uma frase que levo comigo é : "Se definir é limitar-se."
+  👩‍💼Introvertida;
+  🧩"Se definir é limitar-se."
   🐈‍⬛Amo Gatos; 🛼Patins; 🎵 Musica; 🎞️ Série 🎬Filme;
 ----------------------------------------------------------------------
  
@@ -59,7 +60,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://html.com/)
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://css-tricks.com/)
 [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)](https://javascript.info/)
-[![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM)](https://www.npmjs.com/) 
+<!--[![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=NPM)](https://www.npmjs.com/) 
 [![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS)](https://www.npmjs.com/) 
 [![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TYPESCRIPT)](https://www.typescriptlang.org/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP)](https://getbootstrap.com/) 
@@ -69,7 +70,7 @@
 [![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=MUI)](https://mui.com/) 
 [![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=ESLINT)](https://mui.com/) 
 [![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=VERCEL)](https://vercel.com/dashboard) 
-[![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX)](https://vercel.com/dashboard)
+[![redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=REDUX)](https://vercel.com/dashboard) -->
 
 </div>
 
