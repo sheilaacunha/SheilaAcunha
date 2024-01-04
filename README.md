@@ -15,7 +15,6 @@
   👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
   💻Estou na Edição do Programa Starter Full Stack Web Developer;
   🌟Uma mera Aprendiz de Programação;
-  💜Atuamente trabalho como SDR;
   📝Em constante Aprendizado;
   👩‍💼Introvertida;
   🧩"Se definir é limitar-se."
