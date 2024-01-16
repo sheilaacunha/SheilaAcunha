@@ -11,11 +11,14 @@
          🏳️‍🌈 Quem sou ??? 🤷🏽‍♀️ 
 ------------------------------------------------------------------------
   👧🏽Sou a Sheila
-  💖Estou em um Relacionamento complicado com os Códigos;
+  💖Sou apaixonada por aprendizagem ao longo da vida e pela maneira
+    como a tecnologia pode transformar nossas vidas para melhor;
   👩🏽‍💻Atualmente sou estudante de Desenvolvimento para web na <Growdev/>;
   💻Estou na Edição do Programa Starter Full Stack Web Developer;
-  🌟Uma mera Aprendiz de Programação;
-  📝Em constante Aprendizado;
+  🌟Sou alguém que busca entendimento e crescimento constante.
+  📝A curiosidade é minha grande aliada, pois estou sempre em busca
+    de novos conhecimentos e perspectivas. Sou aberta para diferentes
+    ideias de aprendizagem.;
   👩‍💼Introvertida;
   🧩"Se definir é limitar-se."
   🐈‍⬛Amo Gatos; 🛼Patins; 🎵 Musica; 🎞️ Série 🎬Filme;
