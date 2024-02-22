@@ -13,14 +13,9 @@
   👧🏽Sou a Sheila
   👩🏽‍💻Estudante de Desenvolvimento para web na <Growdev/>;
   💻Edição Starter Full Stack Web Developer;
-  🌟Sou alguém que busca entendimento e crescimento constante.
-  👩‍💼Introvertida;
   🧩"Se definir é limitar-se."
   🐈‍⬛Amo Gatos;
   🛼Patins;
-  🎵 Musica;
-  🎞️ Série;
-  🎬Filme;
 ----------------------------------------------------------------------
  
 ```
