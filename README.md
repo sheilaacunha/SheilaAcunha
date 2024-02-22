@@ -41,6 +41,7 @@
 <a href="https://www.linkedin.com/in/sheilaacunha90/"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a>
 </a> <a href="mailto:sheilaacunha1990@gmail.com"><img img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=gmail&logoColor=red" alt="Gmail"/></a>
 <a href="http://discordapp.com/users/9539792909223895463848"><img src="https://img.shields.io/badge/Acunha-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://www.sheilaacunha.com.br/)
 
 </div>
 
